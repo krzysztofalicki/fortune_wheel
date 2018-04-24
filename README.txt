@@ -1,0 +1,1 @@
+student project of "the wheel of fortune" - using C++, cyclic list

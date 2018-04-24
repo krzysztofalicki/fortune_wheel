@@ -1,0 +1,4 @@
+rower 200
+samochod 21
+suszarka 3
+telewizor 15
